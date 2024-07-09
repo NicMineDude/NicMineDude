@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NicMineDude
-- 👀 I’m interested in Manga, Video Games and Computers
-- 🌱 I’m currently learning How to make video games and web scrapers
-- 💞️ I’m looking to collaborate on Game Devellopement
-- 📫 How to reach me Twitter - NicMineDude
+- 👀 I’m interested in various games, like Zelda, Elden Ring and Yu-Gi-Oh.
+- 🌱 Always working on something, or wanting to work on something.
+- 💞️ If you have an idea or need help shoot me a dm
+- 📫 Discord - NicMineDude
 
 <!---
 NicMineDude/NicMineDude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
