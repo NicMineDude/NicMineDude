@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicMineDude
+# 👋 Hey, I’m @NicMineDude
 - 👀 I’m interested in various games, like Zelda, Elden Ring and Yu-Gi-Oh.
 - 🌱 Always working on something, or wanting to work on something.
 - 💞️ If you have an idea or need help shoot me a dm
