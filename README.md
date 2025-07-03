@@ -32,7 +32,8 @@
 ## 🚀 Current Projects
 
 - **[Skystones JAVA Edition](#)** — A JavaFX game recreating the skystones mini=game from Skylanders Giants (2012), I’m building for fun and learning.
-- **[GoTrellis Mobile App](#)** — The official mobile app for Trellis. On the IOS App store currently [![App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/ca/app/gotrellis/id6670703570)
+- **[GoTrellis Mobile App](#)** — The official mobile app for Trellis. On the IOS App store currently
+  [![App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/ca/app/gotrellis/id6670703570)
 ---
 
 <!---
