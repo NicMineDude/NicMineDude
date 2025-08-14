@@ -30,11 +30,57 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
-- **[Skystones JAVA Edition](#)** — A JavaFX game recreating the skystones mini=game from Skylanders Giants (2012), I’m building for fun and learning.
-- **[GoTrellis Mobile App](#)** — The official mobile app for Trellis. On the IOS App store currently
-  [![App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/ca/app/gotrellis/id6670703570)
+---
+
+### 📱 GoTrellis Mobile App
+
+<table>
+<tr>
+<td width="80">
+  <a href="https://apps.apple.com/ca/app/gotrellis/id6670703570">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/29/e1/4929e139-17b0-fa24-c5f6-2c9d135b99f8/AppIcon-1x_U007emarketing-0-6-85-220-0.png/460x0w.webp" alt="GoTrellis App Icon" width="80" style="border-radius:16px;"/>
+  </a>
+</td>
+<td>
+  The official mobile app for Trellis users - available now on the iOS App Store.
+</td>
+<td width="250" align="right">
+  <a href="https://apps.apple.com/ca/app/gotrellis/id6670703570">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple" alt="Download on the App Store"/>
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 DriveBi Chrome Extension
+
+<table>
+<tr>
+<td width="80">
+  <a href="https://chromewebstore.google.com/detail/pbbncljckdgogigcbgdionnaocilkccg?utm_source=item-share-cb">
+    <img src="https://lh3.googleusercontent.com/rezRo4Wloin7xuE0u7u0GH2_riemr6ftrVp5xe9Qiq531H15nbnQmMlg_Xb7DewTRU_Rqy0BkC-ZkxcivU_UQ38_=s120" alt="DriveBi Icon" width="80" style="border-radius:16px;"/>
+  </a>
+</td>
+<td>
+  A lightweight Chrome extension that automatically clicks a user-defined button on a specified site. Built in under 12 hours for learning purposes.
+</td>
+<td width="250" align="right">
+  <a href="https://chromewebstore.google.com/detail/pbbncljckdgogigcbgdionnaocilkccg?utm_source=item-share-cb">
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Download-blue?style=for-the-badge&logo=googlechrome" alt="Download on Chrome Web Store"/>
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
+### 🎮 Skystones JAVA Edition  
+A JavaFX game recreating the Skystones mini-game from *Skylanders Giants* (2012) — built for fun and learning.
+
 ---
 
 <!---
