@@ -79,7 +79,7 @@
 ---
 
 ### 🎮 Skystones JAVA Edition  
-A JavaFX game recreating the Skystones mini-game from *Skylanders Giants* (2012) — built for fun and learning.
+A JavaFX game recreating the Skystones mini-game from *Skylanders Giants* (2012) - built for fun and learning.
 
 ---
 
