@@ -1,8 +1,8 @@
 # Hey, I’m **@NicMineDude**
 
-🎓 I’m heading into my **second year of Comp Sci**
+🎓 **2nd Year,Comp Sci**
 
-🎮 **Epic Gamer** - I’m passionate about various video games, favourite genres include open world, souls/souls-like and Survival-craft. 
+🎮 **Epic Gamer** - I’m passionate about various video games, favourite genres include open world, souls/souls-like, Survival-craft and metroidvanias. 
 
 💻 **Always want to make something** - Whether I’m coding, creating, or exploring new ideas, I’m always working on something (or at least looking something).  
 
@@ -15,18 +15,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicMineDude&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -80,6 +68,18 @@
 
 ### 🎮 Skystones JAVA Edition  
 A JavaFX game recreating the Skystones mini-game from *Skylanders Giants* (2012) - built for fun and learning.
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
