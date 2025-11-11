@@ -34,11 +34,11 @@
 <td>
   The official mobile app for Trellis users - available now on the iOS App Store.
 </td>
-<td width="250" align="right">
+<!-- <td width="250" align="right">
   <a href="https://apps.apple.com/ca/app/gotrellis/id6670703570">
     <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple" alt="Download on the App Store"/>
   </a>
-</td>
+</td> -->
 </tr>
 </table>
 
