@@ -1,6 +1,6 @@
 # Hey, I’m **@NicMineDude**
 
-🎓 **2nd Year, Comp Sci**
+🎓 **3rd Year, Comp Sci**
 
 🎮 **Epic Gamer** - I’m passionate about various video games, favourite genres include open world, souls/souls-like, Survival-craft and metroidvanias. 
 
