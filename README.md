@@ -1,51 +1,44 @@
-# Hey, I’m **@NicMineDude**
+# Hey, I'm **@NicMineDude**
 
-🎓 **3rd Year, Comp Sci**
-
-🎮 **Epic Gamer** - I’m passionate about various video games, favourite genres include open world, souls/souls-like, Survival-craft and metroidvanias. 
-
-💻 **Always want to make something** - Whether I’m coding, creating, or exploring new ideas, I’m always working on something (or at least looking something).  
-
-📫 **Connect with me** - Discord: `NicMineDude`
+🎓 **2nd Year Computer Science Student**
+📫 **Reach me on Discord:** `NicMineDude`
 
 ---
 
-## GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicMineDude&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+### Tools & AI
+![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
-## Projects
+## 🚀 Projects
+
+### 🎮 OpenGL Graphics & Game Development
+Personal exploration of real-time 3D graphics using **C++ and OpenGL** — including rendering pipelines, shaders, and game mechanics. A hands-on deep dive into how games work at a low level.
 
 ---
 
 ### 📱 GoTrellis Mobile App
-
-<table>
-<tr>
-<td width="80">
-  <a href="https://apps.apple.com/ca/app/gotrellis/id6670703570">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/29/e1/4929e139-17b0-fa24-c5f6-2c9d135b99f8/AppIcon-1x_U007emarketing-0-6-85-220-0.png/460x0w.webp" alt="GoTrellis App Icon" width="80" style="border-radius:16px;"/>
-  </a>
-</td>
-<td>
-  The official mobile app for Trellis users - available now on the iOS App Store.
-</td>
-<!-- <td width="250" align="right">
-  <a href="https://apps.apple.com/ca/app/gotrellis/id6670703570">
-    <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple" alt="Download on the App Store"/>
-  </a>
-</td> -->
-</tr>
-</table>
+The official mobile companion for Trellis users, built with **React Native**. Shipped to the iOS App Store — currently in an unlisted phase while continuing to evolve.
 
 ---
 
 ### 💻 DriveBi Chrome Extension
-
 <table>
 <tr>
 <td width="80">
@@ -54,7 +47,7 @@
   </a>
 </td>
 <td>
-  A lightweight Chrome extension that automatically clicks a user-defined button on a specified site. Built in under 12 hours for learning purposes.
+  A lightweight Chrome extension that automatically clicks a user-defined button on a specified site. Built in under 12 hours as a focused learning exercise.
 </td>
 <td width="250" align="right">
   <a href="https://chromewebstore.google.com/detail/pbbncljckdgogigcbgdionnaocilkccg?utm_source=item-share-cb">
@@ -66,25 +59,19 @@
 
 ---
 
-### 🎮 Skystones JAVA Edition  
-A JavaFX game recreating the Skystones mini-game from *Skylanders Giants* (2012) - built for fun and learning.
+### 🎮 Skystones Java Edition
+A faithful JavaFX recreation of the Skystones mini-game from *Skylanders Giants* (2012). Built for fun, nostalgia, and the craft of game logic.
 
 ---
 
-## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=C++&logoColor=white)
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicMineDude&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
 <!---
-NicMineDude/NicMineDude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+NicMineDude/NicMineDude is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
