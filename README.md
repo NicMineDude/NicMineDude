@@ -31,6 +31,8 @@
 ### 🎮 OpenGL Graphics & Game Development
 Personal exploration of real-time 3D graphics using **C++ and OpenGL** — including rendering pipelines, shaders, and game mechanics. A hands-on deep dive into how games work at a low level.
 
+[![OpenGL Graphics & Game Development — Demo](https://img.youtube.com/vi/HX3_PRpt9BE/maxresdefault.jpg)](https://youtu.be/HX3_PRpt9BE)
+
 ---
 
 ### 📱 GoTrellis Mobile App
@@ -62,6 +64,7 @@ The official mobile companion for Trellis users, built with **React Native**. Sh
 ### 🎮 Skystones Java Edition
 A faithful JavaFX recreation of the Skystones mini-game from *Skylanders Giants* (2012). Built for fun, nostalgia, and the craft of game logic.
 
+[![Skystones Java Edition — Demo](https://img.youtube.com/vi/jUcAgqf2Rsg/maxresdefault.jpg)](https://youtu.be/jUcAgqf2Rsg)
 ---
 
 ## 📊 GitHub Stats
