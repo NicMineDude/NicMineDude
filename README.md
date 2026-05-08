@@ -1,11 +1,13 @@
 # Hey, I'm **@NicMineDude**
+- 🎓 **2nd Year Computer Science Student**
+- 📫 **Reach me on Discord:** `NicMineDude`
 
-🎓 **2nd Year Computer Science Student**
-📫 **Reach me on Discord:** `NicMineDude`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-tarsia-plouffe/)
+
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -27,7 +29,15 @@
 
 ---
 
-## 🚀 Projects
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicMineDude&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## Projects
 
 ### 🎮 OpenGL Graphics & Game Development
 Personal exploration of real-time 3D graphics using **C++ and OpenGL** - including rendering pipelines, shaders, and game mechanics. A hands-on deep dive into how games work at a low level.
@@ -74,14 +84,6 @@ Features include a full mobile interface for the Trellis platform, along with **
 A faithful JavaFX recreation of the Skystones mini-game from *Skylanders Giants* (2012). Built for fun, nostalgia, and the craft of game logic.
 
 [![Skystones Java Edition — Demo](https://img.youtube.com/vi/jUcAgqf2Rsg/maxresdefault.jpg)](https://youtu.be/jUcAgqf2Rsg)
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicMineDude&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 
 <!---
