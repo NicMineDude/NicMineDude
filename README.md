@@ -23,20 +23,29 @@
 
 ### Tools & AI
 ![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
 ### 🎮 OpenGL Graphics & Game Development
-Personal exploration of real-time 3D graphics using **C++ and OpenGL** — including rendering pipelines, shaders, and game mechanics. A hands-on deep dive into how games work at a low level.
+Personal exploration of real-time 3D graphics using **C++ and OpenGL** - including rendering pipelines, shaders, and game mechanics. A hands-on deep dive into how games work at a low level.
 
-[![OpenGL Graphics & Game Development — Demo](https://img.youtube.com/vi/HX3_PRpt9BE/maxresdefault.jpg)](https://youtu.be/HX3_PRpt9BE)
+[![OpenGL Graphics & Game Development - Demo](https://img.youtube.com/vi/HX3_PRpt9BE/maxresdefault.jpg)](https://youtu.be/HX3_PRpt9BE)
 
 ---
 
 ### 📱 GoTrellis Mobile App
-The official mobile companion for Trellis users, built with **React Native**. Shipped to the iOS App Store — currently in an unlisted phase while continuing to evolve.
+The official mobile companion for Trellis users, built with **React Native**. Shipped to the iOS App Store - currently in an unlisted phase while continuing to evolve.
+
+Features include a full mobile interface for the Trellis platform, along with **home screen widgets** for quick at-a-glance access without even opening the app.
+
+<p align="center">
+  <img src="https://i.imgur.com/p86JCcG.png" alt="GoTrellis Screenshot 1" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/OO56HTW.png" alt="GoTrellis Screenshot 2" width="250"/>
+</p>
 
 ---
 
