@@ -1,5 +1,5 @@
 # Hey, I'm **@NicMineDude**
-- 🎓 **2nd Year Computer Science Student**
+- 🎓 **3rd Year Computer Science Student**
 - 📫 **Reach me on Discord:** `NicMineDude`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-tarsia-plouffe/)
